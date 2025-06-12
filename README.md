@@ -38,7 +38,7 @@ sudo apt-get install python3
 ### Clone the Repository
 
 ```
-git clone https://github.com/Yashhackz7721/defrauder.git
+git clone https://github.com/harshj054/defrauder.git
 cd defrauder
 chmod +x setup.sh
 sudo ./setup.sh
